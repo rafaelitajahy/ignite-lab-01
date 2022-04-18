@@ -30,8 +30,8 @@
 
 ----------------------------------------------------------------
 
-[ ] Importar telas do Tailwind
-[ ] URL de Logout no Auth0
-[ ] Query das minhas matrículas
-[ ] Query de produtos
-[ ] Mutation de realizar matrícula
+- [ ] Importar telas do Tailwind
+- [ ] URL de Logout no Auth0
+- [ ] Query das minhas matrículas
+- [ ] Query de produtos
+- [ ] Mutation de realizar matrícula
