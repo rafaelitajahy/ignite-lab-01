@@ -1,3 +1,5 @@
+# Dependências
+- https://github.com/codeedu/wsl2-docker-quickstart#docker-engine-docker-nativo-diretamente-instalado-no-wsl2
 # Ignite Lab 01
 
 - NestJS
