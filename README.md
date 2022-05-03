@@ -1,5 +1,11 @@
 # Dependências
 - https://github.com/codeedu/wsl2-docker-quickstart#docker-engine-docker-nativo-diretamente-instalado-no-wsl2
+
+# Docker
+* sudo service docker start
+* sudo docker start $(docker ps -a -q) - Starta todos os containers
+
+
 # Ignite Lab 01
 
 - NestJS
